@@ -17,12 +17,12 @@ body {
    min-height: 100%;
 }
 
-.ant { background: url('/assets/bugs/ant.png') no-repeat center 115px; }
-.bee { background: url('/assets/bugs/bee.png') no-repeat center 30px; }
-.caterpillar { background: url('/assets/bugs/caterpillar.png') no-repeat center 65px; }
-.grasshopper{ background: url('/assets/bugs/grasshopper.png') no-repeat center 80px; }
-.ladybird { background: url('/assets/bugs/ladybird.png') no-repeat center 155px; }
-.spider { background: url('/assets/bugs/spider.png') no-repeat center 155px; }
+.ant { background: url('/assets/ant.png') no-repeat center 115px; }
+.bee { background: url('/assets/bee.png') no-repeat center 30px; }
+.caterpillar { background: url('/assets/caterpillar.png') no-repeat center 65px; }
+.grasshopper{ background: url('/assets/grasshopper.png') no-repeat center 80px; }
+.ladybird { background: url('/assets/ladybird.png') no-repeat center 155px; }
+.spider { background: url('/assets/spider.png') no-repeat center 155px; }
 
 .body {
  background-color: rgba(255,255,255,0.8); border-radius: 1em;
