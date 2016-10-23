@@ -1,0 +1,18 @@
+# Site settings
+title: Muddy Bugs
+description: 
+
+analytics : UA-19388104-1
+
+# Build settings
+safe: true
+timezone: Europe/London
+lsi: false
+markdown: kramdown
+permalink: /blog/:year/:month/:title
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CNAME
